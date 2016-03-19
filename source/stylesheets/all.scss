@@ -7,7 +7,7 @@ body {
   font-family: 'Lato', sans-serif;
   background-color: #445;
   background: linear-gradient(135deg, #446, #466);
-  color: #BBC;
+  color: rgba(#fff, 0.5);
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 300;
@@ -49,12 +49,12 @@ body {
 }
 
 .hello {
-  // text-transform: uppercase;
   font-weight: lighter;
   font-size: 3.6rem;
   line-height: 1.2;
   letter-spacing: -1px;
   margin: 1.6rem 0;
+  color: rgba(#fff, 0.6);
   @media (max-width: 767px) {
     font-size: 1.8rem;
     margin: 1.6rem 20px;
@@ -75,10 +75,11 @@ body {
   }
   a {
     font-weight: 400;
-    color: #CCD;
+    color: rgba(#fff, 0.7);
     text-decoration: none;
     &:visited {
-      color: #AAB;
+      text-decoration: line-through;
+      color: rgba(#fff, 0.5);
     }
   }
   .small {
