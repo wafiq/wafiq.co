@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="noun_63641_cc" fill="#FFFFFF">
+            <g id="Group">
+                <path d="M16.75,12.569 L10.005,19.368 L3.262,12.569 C2.516,11.823 1.309,11.823 0.563,12.569 C-0.182,13.323 -0.182,14.541 0.563,15.295 L8.657,23.449 C9.403,24.195 10.611,24.195 11.355,23.449 L19.45,15.295 C20.196,14.541 20.194,13.323 19.45,12.569 C18.703,11.823 17.496,11.823 16.75,12.569 L16.75,12.569 Z" id="Shape"></path>
+                <path d="M8.657,11.452 C9.403,12.198 10.611,12.198 11.355,11.452 L19.45,3.298 C20.196,2.544 20.194,1.325 19.45,0.571 C18.704,-0.175 17.497,-0.175 16.751,0.571 L10.006,7.371 L3.263,0.571 C2.517,-0.175 1.31,-0.175 0.564,0.571 C-0.181,1.325 -0.181,2.544 0.564,3.298 L8.657,11.452 L8.657,11.452 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
